@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0">
-	<xs:redefine schemaLocation="http://qconsulting.ca/gemm/ModConfig5.0.xsd">
+	<xs:redefine schemaLocation="https://raw.githubusercontent.com/CansecoDev/ModConfig/main/ModConfig5.0.xsd">
 		<xs:annotation>
 			<xs:documentation>This extends the group of possible dependencies to include Fallout 3 specific dependencies.</xs:documentation>
 		</xs:annotation>
